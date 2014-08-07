@@ -89,8 +89,8 @@
 					<p>I am a real estate agent.</p>
 					<p>This is some text.</p>
 					<p>This is a <a href="http://google.com">link</a>. How about another link? <a href="http://google.com">Done!</a></p>
-					<p>Contact me now.</p>
-					<p><button type="button" class="btn btn-warning">This is a button, it could send an email.</button></p>
+					<p>I've got a phone. Contact me now.</p>
+					<p><button type="button" class="btn btn-warning">This is a button.</button></p>
 				</div>								
 			</div>
 		</div><!-- /container -->
